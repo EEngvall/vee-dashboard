@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-veedashboard-dev-130635-authRole",
+      "UnauthRoleArn": "arn:aws:iam::497157325286:role/amplify-veedashboard-dev-130635-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::497157325286:role/amplify-veedashboard-dev-130635-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-veedashboard-dev-130635-deployment",
+      "UnauthRoleName": "amplify-veedashboard-dev-130635-unauthRole",
+      "StackName": "amplify-veedashboard-dev-130635",
+      "StackId": "arn:aws:cloudformation:us-west-1:497157325286:stack/amplify-veedashboard-dev-130635/ab221870-9ac4-11ee-91e6-067d542e2b2b",
+      "AmplifyAppId": "d21um3ytaxn8bg"
+    }
+  }
+}
